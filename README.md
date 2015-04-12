@@ -1,2 +1,2 @@
 # gitskills
-add in master
+add in maa aster
